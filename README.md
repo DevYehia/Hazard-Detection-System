@@ -40,8 +40,11 @@ the microcontroller counts the number of pulses recieved in this one second and 
 This project wasn't going to be possible if it weren't for:
 <br>
 Mohammed Ayman : https://github.com/M0hAyman
+<br>
 Ismail Seddik : https://github.com/Ismailseddik
+<br>
 Tarek Khaled : https://github.com/tito360x
+<br>
 Mohammed Hesham : Couldn't find his Account 🤷‍♂️
 
 
