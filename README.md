@@ -1,5 +1,6 @@
 # Overview
-The project aims to build an embedded system to detect hazards like fires, smokes and also detect intrusions using Li-Fi communication
+The project aims to build an embedded system to detect hazards like fires, smokes and also detect intrusions. Also a communication system is implemented
+between two microcontrollers using Li-Fi communication
 
 # Basic operation
 A microcontroller is connected to the sensors (in our case a tiva c board is used) and keeps on monitoring their readings until a reading exceeds its threshold, After pressing
