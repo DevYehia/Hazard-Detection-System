@@ -1,0 +1,15 @@
+"D:\Program Files\IAR folders\arm\bin\armPROC.dll" 
+
+"D:\Program Files\IAR folders\arm\bin\armLMIFTDI.dll" 
+
+"D:\College Data\Terms\Senior 1\Embedded\Labs\Lab4-OfficialGitdirectory\Latest H\Embedded-ARM-Drivers\Project\Debug\Exe\Li-Fi.out" 
+
+--plugin="D:\Program Files\IAR folders\arm\bin\armbat.dll" 
+
+--device_macro="D:\Program Files\IAR folders\arm\config\debugger\TexasInstruments\TM4C123.dmac" 
+
+--flash_loader="D:\Program Files\IAR folders\arm\config\flashloader\TexasInstruments\FlashTC4_H6_o.board" 
+
+
+
+
