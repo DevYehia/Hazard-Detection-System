@@ -38,6 +38,7 @@ the microcontroller counts the number of pulses received in this one second and 
 # Collaborators
 
 This project wasn't going to be possible if it weren't for:
+<br>
 [Yehia Hassan](https://github.com/DevYehia)
 <br>
 [Mohammed Ayman](https://github.com/M0hAyman)
@@ -46,6 +47,6 @@ This project wasn't going to be possible if it weren't for:
 <br>
 [Tarek Khaled](https://github.com/tito360x)
 <br>
-[Mohammed Hesham](https://github.com/MHZDN)https://github.com/MHZDN
+[Mohammed Hesham](https://github.com/MHZDN)
 
 
